@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "367235097181",
+    "project_id": "cybernerd404-chatx",
+    "storage_bucket": "cybernerd404-chatx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367235097181:android:08aa6498aad0b342ffe3b4",
+        "android_client_info": {
+          "package_name": "xyz.cybernerd404.chatx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367235097181-8dir5rtdmmurs4v8aog8dk80m26eje7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAhsDqlDH8tVHNViqcrrqZIVW0SWjr-Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367235097181-8dir5rtdmmurs4v8aog8dk80m26eje7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
